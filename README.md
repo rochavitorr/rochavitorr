@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rochavitorr
+- 👀 I’m interested in front-end
+- 🌱 I’m currently learning HTML, CSS, JavaScript and React.js
+- 💞️ I’m looking to collaborate on React.js on WEB and front-end projects
+- 📫 You can reach me on phwr15@gmail.com
